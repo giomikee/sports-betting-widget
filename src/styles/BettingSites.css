@@ -1,0 +1,33 @@
+/*
+ * Created on Fri Mar 27 2020
+ * Author: Gio Justiniano
+ * More info: https://github.com/giomikee/
+ *
+ * Copyright (c) 2020
+ */
+
+.align_left {
+    float: left;
+}
+
+.align_right {
+    float: right;
+}
+
+.gray {
+    color: #484848;
+    vertical-align: middle;
+}
+
+.switch {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.sites_container {
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    margin: 10px;
+}

@@ -1,0 +1,24 @@
+/*
+ * Created on Thu Mar 26 2020
+ * Author: Gio Justiniano
+ * More info: https://github.com/giomikee/
+ *
+ * Copyright (c) 2020
+ */
+
+.title {
+    display: inline;
+    vertical-align: middle;
+}
+
+.title__underline {
+    width: 80px;
+    height: 5px;
+    border: none;
+    background-color: red;
+}
+
+.canada_flag {
+    vertical-align: middle;
+    margin-right: 15px;
+}
