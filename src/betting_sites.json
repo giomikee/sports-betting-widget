@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "rank": 1,
+        "name": "Sports Interaction",
+        "logo": "/logos/sports-interaction.png",
+        "link": "https://www.sportsinteraction.com/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - Bonus up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 2,
+        "rank": 2,
+        "name": "PowerPlay Sports",
+        "logo": "/logos/power-play.png",
+        "link": "https://www.powerplay.com/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - Bonus up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 3,
+        "rank": 3,
+        "name": "Betway",
+        "logo": "/logos/betway.png",
+        "link": "https://betway.es/en/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "100% Sign Up Bonus Up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 4,
+        "rank": 4,
+        "name": "Spin Sports",
+        "logo": "/logos/spin-sports.png",
+        "link": "https://www.spinsports.com/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - Up to $500 Free Bet",
+        "offer_mobile": "FREE BET $500"
+    },{
+        "id": 5,
+        "rank": 5,
+        "name": "Bodog",
+        "logo": "/logos/bodog.png",
+        "link": "https://www.bodog.eu/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "100% Sign Up Bonus Up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 6,
+        "rank": 6,
+        "name": "Bet 365",
+        "logo": "/logos/bet365.png",
+        "link": "https://www.bet365.es/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - Bonus up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 7,
+        "rank": 7,
+        "name": "888 Sport",
+        "logo": "/logos/888sport.png",
+        "link": "https://www.888sport.es/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - $200 Free Bet",
+        "offer_mobile": "FREE BET $200"
+    },{
+        "id": 8,
+        "rank": 8,
+        "name": "10 Bet",
+        "logo": "/logos/10bet.png",
+        "link": "https://www.10bet.com/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "100% Sign Up Bonus Up to $200",
+        "offer_mobile": "BONUS $200"
+    },{
+        "id": 9,
+        "rank": 9,
+        "name": "Leo Vegas",
+        "logo": "/logos/leovegas.png",
+        "link": "https://www.leovegas.es/es-es/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "- Exclusive - Up to $500 Free Bet",
+        "offer_mobile": "FREE BET $500"
+    },{
+        "id": 10,
+        "rank": 10,
+        "name": "William Hill",
+        "logo": "/logos/william-hill.png",
+        "link": "https://www.williamhill.es/",
+        "rating": 5,
+        "review": "https://www.lipsum.com/feed/html",
+        "offer_desktop": "100% Sign Up Bonus Up to $200",
+        "offer_mobile": "BONUS $200"
+    }
+]
