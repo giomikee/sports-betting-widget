@@ -1,0 +1,161 @@
+/*
+ * Created on Fri Mar 27 2020
+ * Author: Gio Justiniano
+ * More info: https://github.com/giomikee/
+ *
+ * Copyright (c) 2020
+ */
+
+.site {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.rank {
+    text-align: left;
+    margin: 0;
+}
+
+a.review {
+    color: #828282;
+    font-weight: bold;
+}
+
+.offer {
+    color: #2a42ed;
+}
+
+.offer_mobile {
+    display: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link__label {
+    margin: 0 auto;
+    width: 165px;
+    height: 20px;
+    border-radius: 4px;
+    background-color: #f44337;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.card {
+    width: 200px;
+    height: 290px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card .logo {
+    width: 110px;
+    height: 55px;
+}
+
+.card .link {
+    bottom: -40px;
+    position: relative;
+}
+
+.card:hover,
+.list:hover {
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.list:hover {
+    transform: scale(1.05);
+}
+
+.list:hover .link__label {
+    right: 1%;
+}
+
+.list {
+    width: 90%;
+    height: 55px;
+    text-align: left;
+    display: flex;
+}
+
+.list .logo {
+    width: 85px;
+    height: 40px;
+}
+
+
+.list > * {
+    margin: 0 25px 0 10px;
+}
+
+.list .link__label {
+    position: absolute;
+    right: 5%;
+}
+
+.list .offer {
+    position: relative;
+    left: 10%;
+}
+
+.arrow {
+    position: relative;
+}
+
+.card .arrow {
+    right: -25%;
+}
+
+.list .arrow {
+    right: -55%;
+}
+
+
+
+@media only screen and (max-width: 425px) {
+    .list > * {
+        margin-right: 8px;
+    }
+
+    .list .rating {
+        display: none;
+    }
+
+    .list .link__label {
+        border-radius: 8px;
+        width: 40px;
+        height: 45px;
+        margin-top: -5px;
+        right: 3%;
+    }
+
+    .list .link__label-text {
+        display: none;
+    }
+    .list .arrow {
+        margin: 10px;
+        right: 0;
+        font-size: 1.5em;
+    }
+    .list .offer {
+        left: 0;
+    }
+
+    .offer_mobile {
+        display: block;
+    }
+
+    .offer_desktop {
+        display: none;
+    }
+}
