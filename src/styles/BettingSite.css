@@ -93,7 +93,6 @@ a.review {
     height: 40px;
 }
 
-
 .list > * {
     margin: 0 25px 0 10px;
 }
@@ -120,8 +119,6 @@ a.review {
     right: -55%;
 }
 
-
-
 @media only screen and (max-width: 425px) {
     .list > * {
         margin-right: 8px;
@@ -142,11 +139,13 @@ a.review {
     .list .link__label-text {
         display: none;
     }
+
     .list .arrow {
         margin: 10px;
         right: 0;
         font-size: 1.5em;
     }
+    
     .list .offer {
         left: 0;
     }
